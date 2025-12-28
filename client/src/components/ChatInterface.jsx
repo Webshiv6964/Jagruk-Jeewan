@@ -33,7 +33,7 @@ const ChatInterface = () => {
         setIsLoading(true);
 
         try {
-            const response = await axios.post('http://localhost:5000/api/chat', { message: input });
+            const response = await axios.post('https://spiritual-pru-shiv345y657u-dcbc6d56.koyeb.app/api/chat', { message: input });
 
             const botMessage = {
                 id: Date.now() + 1,
