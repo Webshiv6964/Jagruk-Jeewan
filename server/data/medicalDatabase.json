@@ -1,0 +1,206 @@
+[
+    {
+        "keywords": [
+            "fever",
+            "hot",
+            "temperature",
+            "shivering",
+            "Bukhar"
+        ],
+        "condition": "Fever (Bukhar)",
+        "causes": [
+            "Viral or bacterial infection",
+            "Heat exhaustion",
+            "Inflammation"
+        ],
+        "first_aid": [
+            "Rest and drink plenty of fluids (water, electrolytes).",
+            "Use a cool compress on the forehead.",
+            "Dress in light clothing."
+        ],
+        "when_to_see_doctor": [
+            "Temperature is over 103°F (39.4°C).",
+            "Fever lasts more than 3 days.",
+            "Accompanied by severe headache, stiff neck, or rash."
+        ],
+        "prevention": [
+            "Wash hands frequently.",
+            "Avoid close contact with sick people.",
+            "Stay up to date with vaccinations."
+        ]
+    },
+    {
+        "keywords": [
+            "headache",
+            "head pain",
+            "migraine",
+            "sir dard"
+        ],
+        "condition": "Headache (Sir Dard)",
+        "causes": [
+            "Dehydration",
+            "Stress or tension",
+            "Sinus issues",
+            "Lack of sleep"
+        ],
+        "first_aid": [
+            "Drink water.",
+            "Rest in a quiet, dark room.",
+            "Apply a hot or cold pack to your head or neck."
+        ],
+        "when_to_see_doctor": [
+            "Headache is severe or sudden ('worst headache of life').",
+            "Follows a head injury.",
+            "Accompanied by vision loss or confusion."
+        ],
+        "prevention": [
+            "Stay hydrated.",
+            "Manage stress.",
+            "Maintain a regular sleep schedule."
+        ]
+    },
+    {
+        "keywords": [
+            "burn",
+            "burnt",
+            "scald",
+            "fire"
+        ],
+        "condition": "Minor Burn (Jalan/Jalna)",
+        "causes": [
+            "Touching hot surfaces",
+            "Hot liquids",
+            "Sunburn"
+        ],
+        "first_aid": [
+            "Run cool (not cold) tap water over the burn for 10-20 minutes.",
+            "Cover with a sterile, non-stick bandage.",
+            "Do NOT apply ice, butter, or toothpaste."
+        ],
+        "when_to_see_doctor": [
+            "Burn is larger than your palm.",
+            "Burn is on the face, hands, feet, or genitals.",
+            "Signs of infection (oozing, increasing redness)."
+        ],
+        "prevention": [
+            "Use oven mitts.",
+            "Keep hot liquids away from edges of tables.",
+            "Use sunscreen."
+        ]
+    },
+    {
+        "keywords": [
+            "cut",
+            "burn",
+            "wound",
+            "scrape"
+        ],
+        "condition": "Minor Cut/Scrape (Chot/Katna)",
+        "causes": [
+            "Sharp objects (knives, glass)",
+            "Falls"
+        ],
+        "first_aid": [
+            "Wash your hands.",
+            "Stop the bleeding with gentle pressure.",
+            "Clean the wound with clean water.",
+            "Apply an antibiotic ointment and bandage."
+        ],
+        "when_to_see_doctor": [
+            "Bleeding won't stop after 10 minutes of pressure.",
+            "Wound is deep or edges are jagged.",
+            "Wound is from a rusty object (may need Tetanus shot)."
+        ],
+        "prevention": [
+            "Handle sharp objects with care.",
+            "Keep knives sharp (dull knives slip more).",
+            "Wear protective gear when appropriate."
+        ]
+    },
+    {
+        "keywords": [
+            "cold",
+            "flu",
+            "cough",
+            "sneeze",
+            "runny nose"
+        ],
+        "condition": "Common Cold (Zukham)",
+        "causes": [
+            "Viral infection"
+        ],
+        "first_aid": [
+            "Rest.",
+            "Drink warm fluids (soup, tea).",
+            "Gargle with warm salt water for sore throat."
+        ],
+        "when_to_see_doctor": [
+            "Trouble breathing.",
+            "Symptoms persist for more than 10 days.",
+            "High fever."
+        ],
+        "prevention": [
+            "Wash hands.",
+            "Avoid touching your face.",
+            "Clean frequent-touch surfaces."
+        ]
+    },
+    {
+        "keywords": [
+            "stomach",
+            "pain",
+            "abdominal",
+            "belly",
+            "pain"
+        ],
+        "condition": "Stomach Ache (Pet Dard)",
+        "causes": [
+            "Indigestion",
+            "Gas",
+            "Viral infection"
+        ],
+        "first_aid": [
+            "Sip water or clear fluids.",
+            "Avoid solid food for a few hours.",
+            "Try a heating pad."
+        ],
+        "when_to_see_doctor": [
+            "Pain is severe and localized.",
+            "Bloody stools.",
+            "Vomiting blood."
+        ],
+        "prevention": [
+            "Eat slowly.",
+            "Wash fruits and vegetables.",
+            "Stay hydrated."
+        ]
+    },
+    {
+        "keywords": [
+            "chest",
+            "pain",
+            "heart",
+            "heart attack",
+            "angina"
+        ],
+        "condition": "Chest Pain (Emergency)",
+        "causes": [
+            "Heart attack",
+            "Angina",
+            "Panic attack",
+            "Heartburn"
+        ],
+        "first_aid": [
+            "Call emergency services immediately if heart attack is suspected.",
+            "Chew an aspirin if advised by a doctor previously and not allergic."
+        ],
+        "when_to_see_doctor": [
+            "IMMEDIATELY. Chest pain should never be ignored."
+        ],
+        "prevention": [
+            "Healthy diet.",
+            "Regular exercise.",
+            "Stress management."
+        ]
+    }
+]
